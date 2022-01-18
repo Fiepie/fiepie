@@ -1,5 +1,9 @@
 ### Hejsan :v:
 
+Det här är min profil här på GitHub. 
+
+Mitt namn är Anne Sophie och jag är en student på Mittuniversitetet som läser till webbutvecklare. 
+
 <!--
 **Fiepie/fiepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
